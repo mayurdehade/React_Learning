@@ -19,6 +19,20 @@ function App() {
     console.log("value added", counter);
     // counter = counter+1;
     setCounter(counter+1)
+
+    //********** Interview Question ************* */
+    //if we repeat setCounter(counter+1) multiple times then what happend?
+    setCounter(counter+1)
+    // setCounter(counter+1)
+    // setCounter(counter+1)
+    //one one value increase on one click
+    //useState() update in batches
+
+    //callback (it update the value multiple time)
+    //get previous state
+    //add two values
+    setCounter((counter) => counter + 1);
+
   }
 
   //remove value
