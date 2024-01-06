@@ -1,6 +1,6 @@
 Why React was Created:
 
-Fantum Probleam
+Fantom Problem
 
 Real-Time Update Challenge:
 Facebook needed a faster way to update message counts and notifications in real-time, especially for chat interactions.
@@ -62,3 +62,5 @@ If you're just starting, React might feel tricky. It's like learning a new gameâ
 
 Complex Coding with JSX:
 React sometimes uses a special way of writing code (JSX), which can look complicated. It's like using a unique language for codingâ€”it might seem a bit different.
+
+In react we use link tag (not a tag) because a tag can reload (refresh) page
