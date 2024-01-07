@@ -1,0 +1,7 @@
+Context API 
+
+Redux Redux-toolkit (RTK)
+
+react-Redux
+
+zustand
